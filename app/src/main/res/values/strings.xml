@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Location Reminders</string>
+    <string name="title_fragment_maps" >Map</string>
+    <string name="title_fragment_reminder" >Reminders</string>
+    <string name="title_fragment_main" >Main</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="app_icon" translatable="false">Icon app</string>
+    <string name="login_button_text">Login</string>
+    <string name="logout_text">Logout</string>
+    <string name="get_start_button_text">Get started</string>
+    <string name="add_item">add_item</string>
+    <string name="add_geo">geofence added</string>
+    <string name="text_no_data">No Data</string>
+    <string name="reminder_title">Reminder Title</string>
+    <string name="reminder_desc">Description</string>
+    <string name="reminder_location">Reminder Location</string>
+    <string name="reminder_saved">Reminder Saved Successful</string>
+    <string name="save">Save</string>
+    <string name="click_here_to_select_location">Click here to select location</string>
+    <string name="error_select_location">Please, select correct location</string>
+    <string name="location_required_error">Location services must be enabled to use the app</string>
+    <string name="normal_map" translatable="false">Normal Map</string>
+    <string name="hybrid_map" translatable="false">Hybrid Map</string>
+    <string name="satellite_map" translatable="false">Satellite Map</string>
+    <string name="terrain_map" translatable="false">Terrain Map</string>
+    <string name="latitude">Latitude </string>
+    <string name="longitude"> Longitude</string>
+    <string name="geofence_unknown_error">Unknown error: the Geofence service is not available now.</string>
+    <string name="geofence_not_available">Geofence service is not available now. Go to Settings>Location>Mode and choose High accuracy.</string>
+    <string name="geofence_too_many_geofences">Your app has registered too many geofences.</string>
+    <string name="geofence_too_many_pending_intents">You have provided too many PendingIntents to the addGeofences() call.</string>
+    <string name="error_adding_geofence">Error Happened, Can\'t Add Geofence</string>
+    <string name="hint_title_select_location">(title) Please,Select location </string>
+    <string name="hint_desc_select_location">(Description) Please,Select location </string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="err_enter_title">Please enter title</string>
+    <string name="err_select_location">Please select location</string>
+    <string name="geofence_added">geofence added</string>
+
+
+</resources>

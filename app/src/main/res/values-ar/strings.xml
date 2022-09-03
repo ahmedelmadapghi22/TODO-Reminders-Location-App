@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">متذكر الأماكن</string>
+    <string name="title_fragment_maps">الخريطة</string>
+    <string name="title_fragment_reminder">التذكيرات</string>
+    <string name="title_fragment_main">الرئيسية</string>
+
+    <string name="login_button_text">تسجيل الدخول</string>
+    <string name="get_start_button_text">أبدا الان</string>
+    <string name="logout_text">تسجيل الخروج</string>
+    <string name="add_item">إضافة عنصر</string>
+    <string name="add_geo">تم الاضافة بنجاح</string>
+    <string name="text_no_data">لا توجد أي تذكريات</string>
+    <string name="reminder_title">العنون</string>
+    <string name="reminder_desc">الوصف</string>
+    <string name="reminder_location">العنوان</string>
+    <string name="save">حفظ</string>
+    <string name="reminder_saved">تم حفظ التذكير بنجاح</string>
+    <string name="click_here_to_select_location">اضغط هنا لاختيار المكان</string>
+    <string name="error_select_location">من فضلك أختار مكان صحيح</string>
+    <string name="location_required_error">يجب عليك تشيغل خدمة الموقع لاستخدام هذا الابلكشن </string>
+    <string name="latitude">خط طول</string>
+    <string name="longitude">خط عرض</string>
+    <string name="geofence_unknown_error">خطأ غير معروف: خدمة Geofence غير متاحة الآن.</string>
+    <string name="geofence_not_available">خدمة Geofence غير متوفرة الآن. انتقل إلى الإعدادات> الموقع> الوضع واختر دقة عالية.</string>
+    <string name="geofence_too_many_geofences">لقد سجل تطبيقك عددًا كبيرًا جدًا من السياجات الجغرافية.</string>
+    <string name="geofence_too_many_pending_intents">لقد قدمت عددًا كبيرًا جدًا.</string>
+    <string name="error_adding_geofence">حدث خطأ ، لا يمكن إضافة سياج جغرافي</string>
+    <string name="hint_select_location">من فضلك اختار المكان أولا</string>
+    <string name="hint_title_select_location">(العنوان) من فضلك اختار المكان أولا </string>
+    <string name="hint_desc_select_location">(الوصف) من فضلك اختار المكان أولا </string>
+    <string name="add_reminder">إضافة تذكير</string>
+    <string name="err_enter_title">من فضلك ادخل العنوان</string>
+    <string name="err_select_location">من فضلك ادخل المكان</string>
+
+</resources>
